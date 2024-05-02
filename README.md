@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-raindrops/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-raindrops/actions/workflows/ruby.yml)
+
 # Raindrops
 
 Convert a number to a string, the contents of which depend on the number's factors.
